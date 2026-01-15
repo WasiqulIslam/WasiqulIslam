@@ -29,8 +29,14 @@ Innovative Software Engineer | Tech Lead | Backend & Cloud Architect
 
 ---
 
-### 📊 GitHub Stats
-![Wasiqul's GitHub stats](https://github-readme-stats.vercel.app/api?username=wasiqulislam&show_icons=true)
+### 📊 Solo Open Source Projects
+https://github.com/WasiqulIslam/Ludu
+https://github.com/WasiqulIslam/Chess2PAdvanced
+https://github.com/WasiqulIslam/RenameFileByModificationDate
+https://github.com/WasiqulIslam/TimeTracker
+https://github.com/WasiqulIslam/FileUtilityPlus
+https://github.com/WasiqulIslam/Encryptor
+https://github.com/WasiqulIslam/RandomDesigner
 
 ---
 
