@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Wasiqul Islam
 
-Senior Software Engineer | Tech Lead | Backend & Cloud Architect  
-📍 Bangladesh | 🌍 Open to Remote (USD)
+Innovative Software Engineer | Tech Lead | Backend & Cloud Architect  
+📍 Bangladesh | 🌍 Open to Remote
 
 ---
 
@@ -30,7 +30,7 @@ Senior Software Engineer | Tech Lead | Backend & Cloud Architect
 ---
 
 ### 📊 GitHub Stats
-![Wasiqul's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![Wasiqul's GitHub stats](https://github-readme-stats.vercel.app/api?username=wasiqulislam&show_icons=true)
 
 ---
 
