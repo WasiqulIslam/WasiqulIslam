@@ -29,7 +29,7 @@ Innovative Software Engineer | Tech Lead | Backend & Cloud Architect
 
 ---
 
-### 📊 Solo Open Source Projects
+Independently Built Robust Open-Source Projects
 
 https://github.com/WasiqulIslam/Ludu
 
