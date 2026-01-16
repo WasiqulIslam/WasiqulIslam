@@ -49,7 +49,7 @@ https://github.com/WasiqulIslam/RandomDesigner
 ---
 
 
-- 🎥 Created and delivered a **Programming Fundamentals Tutorial Series on YouTube**, using Python as the medium to teach **core concepts applicable to any programming language** (logic, control flow, data structures, problem-solving)  
+🎥 Created and delivered a **Programming Fundamentals Tutorial Series on YouTube**, using Python as the medium to teach **core concepts applicable to any programming language** (logic, control flow, data structures, problem-solving)  
   👉 https://youtube.com/playlist?list=PLtVHvD4oRnIZ30qReLMdIlqzZTnse2nnY
 
 
