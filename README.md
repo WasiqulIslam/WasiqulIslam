@@ -14,8 +14,8 @@ Innovative Software Engineer | Tech Lead | Backend & Cloud Architect
 ---
 
 ### 🛠️ Tech Stack
-**Backend:** .NET, C#, Python, FastAPI  
-**Frontend:** React, JavaScript  
+**Backend:** .NET, C#, JAVA, Python, FastAPI, Node.js. Express
+**Frontend:** React, JavaScript, Flutter, Kotlin
 **Cloud & DevOps:** Azure, Docker  
 **Databases:** SQL Server, MongoDB  
 **Architecture:** Microservices, REST APIs
@@ -47,6 +47,14 @@ https://github.com/WasiqulIslam/RandomDesigner
 
 
 ---
+
+
+- 🎥 Created and delivered a **Programming Fundamentals Tutorial Series on YouTube**, using Python as the medium to teach **core concepts applicable to any programming language** (logic, control flow, data structures, problem-solving)  
+  👉 https://youtube.com/playlist?list=PLtVHvD4oRnIZ30qReLMdIlqzZTnse2nnY
+
+
+---
+
 
 ### 🤝 Let's Connect
 - 💼 LinkedIn: https://www.linkedin.com/in/wasiqul-islam/
