@@ -7,14 +7,14 @@ Innovative Software Engineer | Tech Lead | Backend & Cloud Architect
 
 ### 🧠 About Me
 - 💼 15+ years of experience in software engineering
-- 🏗️ Architected scalable systems using **.NET, React, Azure, Python, FastAPI**
+- 🏗️ Architected scalable systems using **.NET, Java, React, Azure, Python, FastAPI**
 - 👥 Strong focus on **mentorship, leadership, and clean architecture**
 - 🚀 Passionate about performance, microservices, and automation
 
 ---
 
 ### 🛠️ Tech Stack
-**Backend:** .NET, C#, JAVA, Python, FastAPI, Node.js. Express
+**Backend:** .NET, C#, Java, Spring Boot, Python, FastAPI, Node.js. Express
 **Frontend:** React, JavaScript, Flutter, Kotlin
 **Cloud & DevOps:** Azure, Docker  
 **Databases:** SQL Server, MongoDB  
