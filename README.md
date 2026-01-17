@@ -21,7 +21,7 @@ Innovative Software Engineer | Tech Lead | Backend & Cloud Architect
 
 **Cloud & DevOps:** Azure, Docker  
 
-**Databases:** SQL Server, MongoDB, CockroachDB, Firebase, My SQL, Oracle
+**Databases:** MS SQL Server, MongoDB, CockroachDB, Firebase, My SQL, Oracle
 
 **Architecture:** Microservices, REST APIs
 
