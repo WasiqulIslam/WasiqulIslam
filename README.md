@@ -40,6 +40,8 @@ https://github.com/WasiqulIslam/Ludu
 
 https://github.com/WasiqulIslam/Chess2PAdvanced
 
+https://github.com/WasiqulIslam/NoteBook
+
 https://github.com/WasiqulIslam/RenameFileByModificationDate
 
 https://github.com/WasiqulIslam/TimeTracker
