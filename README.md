@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Wasiqul Islam
 
 Innovative Software Engineer | Tech Lead | Backend & Cloud Architect  
-📍 Bangladesh | 🌍 Open to Remote
+📍 Bangladesh | 🌍 Open to Remote Jobs | 🌍 Open to Remote Contractual Projects
 
 ---
 
