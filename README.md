@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Wasiqul Islam
 
 Innovative Software Engineer | Tech Lead | Backend & Cloud Architect  
-📍 Bangladesh | 🌍 Open to Remote Jobs | 🌍 Open to Remote Contractual Projects
+📍 Bangladesh
 
 ---
 
@@ -15,13 +15,13 @@ Innovative Software Engineer | Tech Lead | Backend & Cloud Architect
 
 ### 🛠️ Tech Stack
 
-**Backend:** .NET, C#, ASP.NET MVC, ASP.NET Web API, Java, Spring Boot, Python, FastAPI, Node.js. Express
+**Backend:** .NET, C#, ASP.NET MVC, ASP.NET Web API, Python, FastAPI
 
 **Frontend:** React, JavaScript, Flutter, Kotlin
 
 **Cloud & DevOps:** Azure, Docker  
 
-**Databases:** MS SQL Server, MongoDB, CockroachDB, Firebase, My SQL, Oracle
+**Databases:** MS SQL Server, MongoDB, My SQL
 
 **Architecture:** Microservices, REST APIs
 
