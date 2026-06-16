@@ -17,7 +17,7 @@ Innovative Software Engineer | Tech Lead | Backend & Cloud Architect
 
 **Backend:** .NET, C#, ASP.NET MVC, ASP.NET Web API, Python, FastAPI
 
-**Frontend:** React, JavaScript, Flutter, Kotlin
+**Frontend:** React, JavaScript
 
 **Cloud & DevOps:** Azure, Docker  
 
