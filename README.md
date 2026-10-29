@@ -1,29 +1,23 @@
 ## 👋 Hi, I'm Wasiqul Islam
 
-Innovative Software Engineer | Tech Lead | Backend & Cloud Architect  
+Senior Software Engineer | Solutions Architect | Technical Lead 
 📍 Bangladesh
 
 ---
 
 ### 🧠 About Me
-- 💼 15+ years of experience in software engineering
-- 🏗️ Architected scalable systems using **.NET, React, Azure, Python, FastAPI**
-- 👥 Strong focus on **mentorship, leadership, and clean architecture**
-- 🚀 Passionate about performance, microservices, and automation
+Accomplished Senior Software Engineer and Solutions Architect with nearly two decades of experience designing and scaling distributed systems, cloud architectures, and full-stack solutions. Proven expertise across .NET Core, C#, Python, React, Microservices, and Azure. Track record of driving technical strategy, optimizing high-latency backend architectures, and implementing AI/computer-vision automation in complex engineering domains. Experienced in leading agile engineering teams, establishing CI/CD standards, and mentoring junior developers. 
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Technical Skills
 
-**Backend:** .NET, C#, ASP.NET MVC, ASP.NET Web API, Python, FastAPI
-
-**Frontend:** React, JavaScript
-
-**Cloud & DevOps:** Azure, Docker  
-
-**Databases:** MS SQL Server, MongoDB, My SQL
-
-**Architecture:** Microservices, REST APIs
+Languages & Frameworks: C#, .NET Core, ASP.NET Web API, Python (FastAPI, Django), JavaScript, TypeScript, React, Angular, Node.js, Entity Framework Core, SQL, LINQ
+Architecture & System Design: Microservices, Distributed Systems, Event-Driven Architecture, Domain-Driven Design (DDD), CQRS, RESTful API Design, Caching, High-Performance Scalability
+Cloud & DevOps: Microsoft Azure (AKS, Functions, App Service, Storage), AWS, GCP, Docker, Kubernetes, CI/CD (GitHub Actions), Terraform, Monitoring (Prometheus, Datadog)
+Messaging & Integration: RabbitMQ, Third-Party API Integrations, Async Pipelines, Event Streaming
+Databases: MS SQL Server, MongoDB, PostgreSQL, Oracle, Triggers, Stored Procedures, Performance Tuning
+Security & Quality: OAuth2, JWT, SSO, OWASP, Unit/Integration Testing (xUnit, NUnit), TDD
 
 ---
 
@@ -36,22 +30,19 @@ Innovative Software Engineer | Tech Lead | Backend & Cloud Architect
 
 ### 🛠️Independently Built Robust Open-Source Projects
 
-https://github.com/WasiqulIslam/Ludu
-
-https://github.com/WasiqulIslam/Chess2PAdvanced
+https://github.com/WasiqulIslam/Encryptor
 
 https://github.com/WasiqulIslam/NoteBook
+
+https://github.com/WasiqulIslam/FileUtilityPlus
 
 https://github.com/WasiqulIslam/RenameFileByModificationDate
 
 https://github.com/WasiqulIslam/TimeTracker
 
-https://github.com/WasiqulIslam/FileUtilityPlus
+https://github.com/WasiqulIslam/ProgrammingChallenge1
 
-https://github.com/WasiqulIslam/Encryptor
-
-https://github.com/WasiqulIslam/RandomDesigner
-
+(For other projects please view my Repositories)
 
 ---
 
@@ -65,4 +56,5 @@ https://github.com/WasiqulIslam/RandomDesigner
 
 ### 🤝 Let's Connect
 - 💼 LinkedIn: https://www.linkedin.com/in/wasiqul-islam/
-- 📧 Email: islam.wasiqul@gmail.com
+
+
