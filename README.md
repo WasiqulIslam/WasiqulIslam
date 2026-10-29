@@ -11,7 +11,6 @@ Accomplished Senior Software Engineer and Solutions Architect with nearly two de
 ---
 
 ### 🛠️ Technical Skills
-
 <br />Languages & Frameworks: C#, .NET Core, ASP.NET Web API, Python (FastAPI, Django), JavaScript, TypeScript, React, Angular, Node.js, Entity Framework Core, SQL, LINQ
 <br />Architecture & System Design: Microservices, Distributed Systems, Event-Driven Architecture, Domain-Driven Design (DDD), CQRS, RESTful API Design, Caching, High-Performance Scalability
 <br />Cloud & DevOps: Microsoft Azure (AKS, Functions, App Service, Storage), AWS, GCP, Docker, Kubernetes, CI/CD (GitHub Actions), Terraform, Monitoring (Prometheus, Datadog)
