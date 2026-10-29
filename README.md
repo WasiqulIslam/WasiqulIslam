@@ -41,7 +41,8 @@ https://github.com/WasiqulIslam/TimeTracker
 
 https://github.com/WasiqulIslam/ProgrammingChallenge1
 
-(For other projects please view my Repositories)
+For other projects please view my Repositories
+https://github.com/WasiqulIslam?tab=repositories
 
 ---
 
