@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Wasiqul Islam
 
-Senior Software Engineer | Solutions Architect | Technical Lead 
+Senior Software Engineer | Solutions Architect | Technical Lead <br />
 📍 Bangladesh
 
 ---
