@@ -12,12 +12,12 @@ Accomplished Senior Software Engineer and Solutions Architect with nearly two de
 
 ### 🛠️ Technical Skills
 
-Languages & Frameworks: C#, .NET Core, ASP.NET Web API, Python (FastAPI, Django), JavaScript, TypeScript, React, Angular, Node.js, Entity Framework Core, SQL, LINQ
-Architecture & System Design: Microservices, Distributed Systems, Event-Driven Architecture, Domain-Driven Design (DDD), CQRS, RESTful API Design, Caching, High-Performance Scalability
-Cloud & DevOps: Microsoft Azure (AKS, Functions, App Service, Storage), AWS, GCP, Docker, Kubernetes, CI/CD (GitHub Actions), Terraform, Monitoring (Prometheus, Datadog)
-Messaging & Integration: RabbitMQ, Third-Party API Integrations, Async Pipelines, Event Streaming
-Databases: MS SQL Server, MongoDB, PostgreSQL, Oracle, Triggers, Stored Procedures, Performance Tuning
-Security & Quality: OAuth2, JWT, SSO, OWASP, Unit/Integration Testing (xUnit, NUnit), TDD
+<br />Languages & Frameworks: C#, .NET Core, ASP.NET Web API, Python (FastAPI, Django), JavaScript, TypeScript, React, Angular, Node.js, Entity Framework Core, SQL, LINQ
+<br />Architecture & System Design: Microservices, Distributed Systems, Event-Driven Architecture, Domain-Driven Design (DDD), CQRS, RESTful API Design, Caching, High-Performance Scalability
+<br />Cloud & DevOps: Microsoft Azure (AKS, Functions, App Service, Storage), AWS, GCP, Docker, Kubernetes, CI/CD (GitHub Actions), Terraform, Monitoring (Prometheus, Datadog)
+<br />Messaging & Integration: RabbitMQ, Third-Party API Integrations, Async Pipelines, Event Streaming
+<br />Databases: MS SQL Server, MongoDB, PostgreSQL, Oracle, Triggers, Stored Procedures, Performance Tuning
+<br />Security & Quality: OAuth2, JWT, SSO, OWASP, Unit/Integration Testing (xUnit, NUnit), TDD
 
 ---
 
